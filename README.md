@@ -39,7 +39,5 @@ npx hardhat verify --network rinkeby <SMART_CONTRACT_DEPLOYED> "CrelatNFT" "CRT"
 
 ## Verified Smart Contract
 
-```shell
 https://rinkeby.etherscan.io/address/0xa969ED47e97d70569DE10682D3ABc980fa923F76#code
-```
 
