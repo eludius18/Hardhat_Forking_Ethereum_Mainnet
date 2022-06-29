@@ -6,6 +6,10 @@
 npm install
 ```
 
+```shell
+npm install dotenv
+```
+
 ## Create .env file
 
 ```shell
