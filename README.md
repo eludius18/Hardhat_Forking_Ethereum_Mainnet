@@ -28,7 +28,7 @@ npx hardhat compile
 ## Deploy Smart Contracts on Rinkeby Network
 
 ```shell
-npx hardhat run --network goerli scripts/deploy.js
+npx hardhat run --network rinkeby scripts/deploy.js
 ```
 
 ## Verify Smart Contracts on Etherscan
