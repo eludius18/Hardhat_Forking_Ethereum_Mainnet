@@ -34,7 +34,7 @@ npx hardhat run --network rinkeby scripts/deploy.js
 ## Verify Smart Contracts on Etherscan
 
 ```shell
-npx hardhat verify --network rinkeby <SMART_CONTRACT_DEPLOYED> "CrelatNFT" "CRT" "ipfs://QmYyzWNRUiDhXhyxDEPsbaQG6FHLWPgfrKnEWzMoVtvDKg/"
+npx hardhat verify --network rinkeby <SMART_CONTRACT_DEPLOYED> "CrelatNFT" "CRT" "ipfs://../"
 ```
 
 ## Verified Smart Contract
