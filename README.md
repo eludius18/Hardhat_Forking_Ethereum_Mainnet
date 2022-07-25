@@ -33,7 +33,7 @@ npx hardhat node --fork https://eth-mainnet.g.alchemy.com/v2/<API_ALCHEMY_KEY>
 npx hardhat compile
 ```
 
-## Deploy Smart Contracts on Rinkeby Network
+## Deploy Smart Contracts on Ethereum Fork
 
 ```shell
 npx hardhat run --network fork scripts/deploy.js
