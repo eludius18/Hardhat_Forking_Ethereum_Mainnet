@@ -17,7 +17,7 @@ RPC_URL = ""
 PRIVATE_KEY = ""
 ETHERSCAN_API= ""
 
-RPC_URL_FORK = ""
+RPC_URL_FORK = "http://localhost:8545"
 PRIVATE_KEY_FORK = ""
 ETHERSCAN_API= ""
 ```
